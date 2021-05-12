@@ -1,0 +1,322 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   27.21.14.5638
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roller Madness\Builds_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roller Madness\Builds_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roller Madness\Builds_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roller Madness\Builds_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roller Madness\Builds_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roller Madness\Builds_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roller Madness\Builds_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roller Madness\Builds_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roller Madness\Builds_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roller Madness\Builds_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roller Madness\Builds_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roller Madness\Builds_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.151 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roller Madness\Builds_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roller Madness\Builds_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 1920x2160 at 0,-1080
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.507000 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 13a8 -> priority: 1 
+  Thread -> id: db0 -> priority: 1 
+  Thread -> id: 5218 -> priority: 1 
+  Thread -> id: 30e0 -> priority: 1 
+  Thread -> id: 2368 -> priority: 1 
+  Thread -> id: 3ed4 -> priority: 1 
+Mesh particle system has too many vertices - some particles will be ignored (621240 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (931860 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1242480 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1397790 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1553100 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1708410 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1553100 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1242480 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1087170 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (1087170 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (931860 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (931860 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (776550 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (776550 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (621240 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Mesh particle system has too many vertices - some particles will be ignored (621240 exceeds limit of 524280)
+ 
+(Filename:  Line: 613)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.019400 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 518.
+Total: 0.239700 ms (FindLiveObjects: 0.024400 ms CreateObjectMapping: 0.013600 ms MarkObjects: 0.197300 ms  DeleteObjects: 0.003800 ms)
+
