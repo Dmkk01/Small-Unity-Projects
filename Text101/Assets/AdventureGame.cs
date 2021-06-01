@@ -6,13 +6,14 @@ using UnityEngine.UI;
 public class AdventureGame : MonoBehaviour
 {
     [SerializeField] Text textComponent;
-    // Start is called before the first frame update
+    [SerializeField] State startingState;
+    State state;
     void Start()
     {
-        textComponent.text = "yes";
+        state = startingState;
+        textComponent.text = state.GetStateStory();
     }
 
-    // Update is called once per frame
     void Update()
     {
         
