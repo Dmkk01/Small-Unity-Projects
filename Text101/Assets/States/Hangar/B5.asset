@@ -10,7 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 40d82cbd673eeae428c3d113fc660766, type: 3}
-  m_Name: Room 1
+  m_Name: B5
   m_EditorClassIdentifier: 
-  storyText: I am in room 1
-  nextStates: []
+  storyText: 'Not much happens, what would you like to do?
+
+    
+
+    1. Get running.'
+  nextStates:
+  - {fileID: 11400000, guid: 9571828844947484097a1068eeaef8b7, type: 2}

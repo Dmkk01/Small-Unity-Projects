@@ -10,7 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 40d82cbd673eeae428c3d113fc660766, type: 3}
-  m_Name: Room 2
+  m_Name: A0
   m_EditorClassIdentifier: 
-  storyText: I am in room 2
-  nextStates: []
+  storyText: 'Welcome to this game.
+
+
+    You choose your own adventure.
+
+    Press
+    1 to start.
+
+
+    At any point in time press Q to quit.'
+  nextStates:
+  - {fileID: 11400000, guid: 9b09d429f69565e47ac31ff8ed2629dd, type: 2}
