@@ -10,7 +10,7 @@ public class TileEndBehaviour : MonoBehaviour
              "the tile after reaching the end")]
     public float destroyTime = 1.5f;
 
-    void OnTriggerEnter(Collider col)
+    private void OnTriggerEnter(Collider col)
     {
         // First check if we collided with the player 
         if (col.gameObject.GetComponent<PlayerBehaviour>())

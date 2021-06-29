@@ -55,6 +55,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waitTime: 2
+  explosion: {fileID: 4063899555038042927, guid: 1cda166ef4d42fb4fa1ecea6af295b87, type: 3}
 --- !u!23 &4416371297412138504
 MeshRenderer:
   m_ObjectHideFlags: 0

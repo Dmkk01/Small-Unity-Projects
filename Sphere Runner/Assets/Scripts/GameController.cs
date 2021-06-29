@@ -34,7 +34,7 @@ public class GameController : MonoBehaviour
     /// <summary>
     /// Start is called before the first frame update
     /// </summary>
-    void Start()
+    private void Start()
     {
         // Set our starting point 
         nextTileLocation = startPoint;
@@ -69,7 +69,7 @@ public class GameController : MonoBehaviour
         }
     }
 
-    void SpawnObstacle(Transform newTile)
+    private void SpawnObstacle(Transform newTile)
     {
         // Now we need to get all of the possible places to spawn the 
         // obstacle 

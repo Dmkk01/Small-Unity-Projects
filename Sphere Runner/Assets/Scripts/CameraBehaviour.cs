@@ -14,7 +14,7 @@ public class CameraBehaviour : MonoBehaviour
     /// <summary> 
     /// Update is called once per frame 
     /// </summary> 
-    void Update()
+    private void Update()
     {
         // Check if target is a valid object 
         if (target != null)
