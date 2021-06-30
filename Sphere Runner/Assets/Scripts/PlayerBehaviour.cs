@@ -60,6 +60,12 @@ public class PlayerBehaviour : MonoBehaviour
     /// </summary>
     private void FixedUpdate()
     {
+        // If the game is paused, don't do anything
+        if (PauseScreenBehaviour.paused)
+        {
+            return;
+        }
+
         // Check if we're moving to the side 
         var horizontalSpeed = Input.GetAxis("Horizontal") * dodgeSpeed;
 
