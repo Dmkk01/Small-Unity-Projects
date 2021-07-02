@@ -45,6 +45,20 @@ public class PlayerBehaviour : MonoBehaviour
     /// </summary> 
     private Vector2 touchStart;
 
+
+    [Header("Scaling Properties")]
+
+    [Tooltip("The minimum size (in Unity units) that the player should be")]
+    public float minScale = 0.5f;
+
+    [Tooltip("The maximum size (in Unity units) that the player should be")]
+    public float maxScale = 3.0f;
+
+    /// <summary>
+    /// The current scale of the player
+    /// </summary>
+    private float currentScale = 1;
+
     // Start is called before the first frame update
     private void Start()
     {
@@ -111,6 +125,12 @@ public class PlayerBehaviour : MonoBehaviour
     /// </summary> 
     private void Update()
     {
+        // If the game is paused, don't do anything
+        if (PauseScreenBehaviour.paused)
+        {
+            return;
+        }
+
         // Check if we are running on a mobile device 
         #if UNITY_IOS || UNITY_ANDROID
             //Check if Input has registered more than zero touches 
@@ -181,19 +201,6 @@ public class PlayerBehaviour : MonoBehaviour
             }
         }
     }
-
-    [Header("Scaling Properties")]
-
-    [Tooltip("The minimum size (in Unity units) that the player should be")]
-    public float minScale = 0.5f;
-
-    [Tooltip("The maximum size (in Unity units) that the player should be")]
-    public float maxScale = 3.0f;
-
-    /// <summary>
-    /// The current scale of the player
-    /// </summary>
-    private float currentScale = 1;
 
     /// <summary>
     /// Will change the player's scale via pinching and stretching two 

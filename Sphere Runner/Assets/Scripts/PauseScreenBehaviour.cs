@@ -31,10 +31,16 @@ public class PauseScreenBehaviour : MainMenuBehaviour
         pauseMenu.SetActive(paused);
     }
 
-    private void Start()
+    protected override void Start()
     {
-        // Must be reset in Start or else game will be paused upon restart
-        SetPauseMenu(false);
+        // Initalize Ads if needed
+        base.Start();
+
+        if (!UnityAdController.showAds)
+        {
+            // If not showing ads, just start the game
+            SetPauseMenu(false);
+        }
     }
 
 }

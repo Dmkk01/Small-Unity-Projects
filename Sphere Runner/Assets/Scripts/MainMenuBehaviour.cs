@@ -11,5 +11,25 @@ public class MainMenuBehaviour : MonoBehaviour
     public void LoadLevel(string levelName)
     {
         SceneManager.LoadScene(levelName);
+
+        if (UnityAdController.showAds)
+        {
+            // Show an ad 
+            UnityAdController.ShowAd();
+        }
+    }
+
+    public void DisableAds()
+    {
+        UnityAdController.showAds = false;
+
+        // Used to store that we shouldn't show ads
+        PlayerPrefs.SetInt("Show Ads", 0);
+    }
+
+    protected virtual void Start()
+    {
+        // Initialize the showAds variable
+        UnityAdController.showAds = (PlayerPrefs.GetInt("Show Ads", 1) == 1);
     }
 }
